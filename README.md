@@ -31,3 +31,7 @@ pyautogui.position()
 14- Run main.py, you got 5 second to minimise the script console window
 15- you got it working ;) 
 
+Upon request I could add:
+- instructions for Mac users
+- automate it more to get ride of 10 steps
+- to dim the light of screen during the night and increase it in the mornings 
